@@ -6,6 +6,8 @@
  * Primeira avaliação parcial 2014/2.
  * @author 
  */
+import utfpr.ct.dainf.if62c.*
+
 public class Avaliacao1 {
 
     public static void main(String[] args) {
